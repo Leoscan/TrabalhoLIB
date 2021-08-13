@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"imgFactory.imagens"},{"l":"imgFactory.imagens.conversor.conversores"},{"l":"imgFactory.imagens.conversor.interfaces"},{"l":"imgFactory.imagens.toolBox"},{"l":"imgFactory.imagens.util"}]
